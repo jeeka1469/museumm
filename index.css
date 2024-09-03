@@ -1,0 +1,750 @@
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: -28px;
+  background-color: var(--color-white);
+  border: 1px solid #4a4a4a;
+  box-sizing: border-box;
+  width: 1519px;
+  height: 58px;
+}
+.frame-item {
+  position: absolute;
+  top: 209px;
+  left: 0;
+  background-color: var(--color-cornflowerblue);
+  width: 1440px;
+  height: 93px;
+}
+.frame-inner {
+  position: absolute;
+  top: -5.5px;
+  left: 362.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 64px;
+}
+.div,
+.goverment-of-india,
+.search {
+  position: absolute;
+  top: 16px;
+  left: 379px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 458px;
+  height: 37px;
+}
+.div,
+.search {
+  top: 156px;
+  left: 415px;
+}
+.search {
+  top: 14px;
+  left: 1329px;
+  width: 84px;
+  height: 25px;
+}
+.line-div {
+  position: absolute;
+  top: -5.5px;
+  left: 872.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 64px;
+}
+.skip-to-main {
+  position: absolute;
+  top: 18px;
+  left: 889px;
+  font-size: var(--font-size-xl);
+  color: var(--color-cornflowerblue);
+  display: inline-block;
+  width: 297px;
+  height: 43px;
+}
+.icround-search,
+.vector-icon {
+  position: absolute;
+  top: 11px;
+  left: 1253px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.vector-icon {
+  height: 2.53%;
+  width: 1.73%;
+  top: 1.53%;
+  right: 8.41%;
+  bottom: 95.94%;
+  left: 89.86%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.rectangle-div {
+  position: absolute;
+  top: 208px;
+  left: 46px;
+  background-color: #db3232;
+  width: 93px;
+  height: 93px;
+}
+.icoutline-home-icon {
+  position: absolute;
+  top: 232px;
+  left: 70px;
+  width: 47px;
+  height: 47px;
+  overflow: hidden;
+}
+.about-the-museum {
+  position: absolute;
+  top: 237px;
+  left: 212px;
+  display: inline-block;
+  width: 240px;
+  height: 42px;
+}
+.art-and-reasearch,
+.exhibitions,
+.gallery,
+.learning-outreach,
+.visit-museum {
+  position: absolute;
+  top: 237px;
+  left: 473px;
+  display: inline-block;
+  width: 165px;
+  height: 42px;
+}
+.art-and-reasearch,
+.exhibitions,
+.gallery,
+.learning-outreach {
+  left: 659px;
+  width: 225px;
+}
+.exhibitions,
+.gallery,
+.learning-outreach {
+  left: 905px;
+  width: 101px;
+}
+.exhibitions,
+.learning-outreach {
+  left: 1027px;
+  width: 135px;
+}
+.learning-outreach {
+  left: 1183px;
+  width: 279px;
+}
+.photo-2024-08-31-06-50-36-1-icon,
+.pngwingcom-10-1 {
+  position: absolute;
+  top: 73px;
+  left: 1139px;
+  width: 294.7px;
+  height: 121px;
+  object-fit: cover;
+}
+.pngwingcom-10-1 {
+  top: 35px;
+  left: 918px;
+  width: 176px;
+  height: 175.9px;
+}
+.visit {
+  position: relative;
+  font-weight: 600;
+}
+.frame-wrapper,
+.visit-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.visit-wrapper {
+  border: 2px solid var(--color-white);
+  justify-content: center;
+  padding: var(--padding-7xs-6);
+}
+.frame-wrapper {
+  position: absolute;
+  top: 594px;
+  left: 602px;
+  justify-content: flex-start;
+}
+.image-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 674px;
+  object-fit: cover;
+}
+.unsplashstdes6xkqpo-icon,
+.unsplashstdes6xkqpo-icon1,
+.unsplashzwh1nuzcxdk-icon {
+  position: absolute;
+  top: 0;
+  left: 2067px;
+  width: 1440px;
+  height: 674px;
+  object-fit: cover;
+}
+.unsplashstdes6xkqpo-icon1,
+.unsplashzwh1nuzcxdk-icon {
+  left: 4213px;
+}
+.unsplashzwh1nuzcxdk-icon {
+  left: 6280px;
+}
+.component-1,
+.frame-group,
+.image-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 7720px;
+  height: 674px;
+}
+.component-1,
+.frame-group {
+  top: 3px;
+  left: 7px;
+  width: 1440px;
+  overflow: hidden;
+}
+.frame-group {
+  top: 301px;
+  left: 0;
+  width: 1435px;
+  height: 675px;
+  text-align: center;
+  font-size: var(--font-size-base-7);
+  font-family: var(--font-sora);
+}
+.ministry-of-tourism-india-1-icon {
+  position: absolute;
+  top: 83px;
+  left: 51px;
+  width: 225px;
+  height: 110.4px;
+  overflow: hidden;
+}
+.indian-government-written-in-h-icon,
+.pngtreemuseum-icon-4835866-1 {
+  position: absolute;
+  top: 6px;
+  left: 5px;
+  width: 46px;
+  height: 46px;
+  object-fit: cover;
+}
+.indian-government-written-in-h-icon {
+  left: 183px;
+  width: 165.4px;
+  height: 47px;
+}
+.welcome-to {
+  margin: 0;
+}
+.welcome-to-museum-container {
+  position: absolute;
+  top: 768px;
+  left: 332px;
+  font-size: 60.4px;
+  letter-spacing: 0.2em;
+  font-family: var(--font-bigshot-one);
+  text-align: center;
+  display: inline-block;
+  width: 755px;
+  height: 208px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: -9px;
+  width: 1440px;
+  height: 976px;
+  overflow: hidden;
+  font-family: var(--font-inter);
+}
+.chat-with-us-wrapper,
+.virtual-tour-wrapper {
+  position: absolute;
+  top: 895px;
+  left: 636.2px;
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 142px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xs-6) var(--padding-7xs-6) var(--padding-7xs-6)
+    var(--padding-8xs);
+  text-align: center;
+  font-size: var(--font-size-base-7);
+}
+.chat-with-us-wrapper {
+  top: 369px;
+  left: 1183px;
+  background-color: var(--color-white);
+  color: var(--color-black);
+}
+.ellipse-div,
+.frame-child1,
+.frame-child2,
+.frame-child3 {
+  position: absolute;
+  top: 942px;
+  left: 666px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 11.6px;
+  height: 11.6px;
+}
+.frame-child1,
+.frame-child2,
+.frame-child3 {
+  left: 688.5px;
+}
+.frame-child2,
+.frame-child3 {
+  left: 710.9px;
+}
+.frame-child3 {
+  left: 733.4px;
+}
+.welcome-to-our-container {
+  position: absolute;
+  top: 80px;
+  left: 720px;
+  display: inline-block;
+  width: 664px;
+  height: 537px;
+}
+.icon {
+  position: absolute;
+  top: 89px;
+  left: 12px;
+  width: 708px;
+  height: 400.9px;
+  object-fit: cover;
+}
+.welcome-to-our-museum-where-a-parent {
+  position: absolute;
+  top: 976px;
+  left: 0;
+  background-color: #f4f4f4;
+  width: 1440px;
+  height: 650px;
+  overflow: hidden;
+  font-size: 30px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.museum-shops,
+.support-us {
+  position: absolute;
+  top: 162px;
+  left: 358px;
+  display: inline-block;
+  width: 309.1px;
+  height: 50.2px;
+}
+.support-us {
+  top: 427.5px;
+  left: 374.2px;
+  width: 482.3px;
+}
+.contribute-your-skills,
+.purchase-a-memento,
+.the-wa-museum,
+.your-donation-helps {
+  position: absolute;
+  top: 225px;
+  left: 358px;
+  font-size: var(--font-size-base-2);
+  display: inline-block;
+  width: 317.2px;
+  height: 97.1px;
+}
+.contribute-your-skills,
+.the-wa-museum,
+.your-donation-helps {
+  top: 228.4px;
+  left: 991.4px;
+}
+.contribute-your-skills,
+.your-donation-helps {
+  top: 505.9px;
+  left: 1011.8px;
+}
+.your-donation-helps {
+  top: 483.4px;
+  left: 379.1px;
+  width: 306.7px;
+  height: 134.3px;
+}
+.img-ticket3-1-icon {
+  position: absolute;
+  top: 114px;
+  left: 25px;
+  width: 326.1px;
+  height: 326.1px;
+  object-fit: cover;
+}
+.donation-charity-1-icon,
+.unsplashy5bvrlccx8k-icon {
+  position: absolute;
+  top: 427.5px;
+  left: 65.7px;
+  width: 291.9px;
+  height: 214.8px;
+  object-fit: cover;
+}
+.unsplashy5bvrlccx8k-icon {
+  top: 167.7px;
+  left: 717.9px;
+  width: 256.5px;
+  height: 203.9px;
+}
+.everyone-is-included,
+.volunteer-with-us {
+  position: absolute;
+  top: 154.8px;
+  left: 991.4px;
+  display: inline-block;
+  width: 508.2px;
+  height: 50.2px;
+}
+.volunteer-with-us {
+  top: 437.3px;
+  left: 1011.8px;
+}
+.unsplashdgxogexaxm8-icon {
+  position: absolute;
+  top: 422.6px;
+  left: 697.4px;
+  width: 297.7px;
+  height: 198.5px;
+  object-fit: cover;
+}
+.more-to-explore {
+  position: absolute;
+  top: 77px;
+  left: 58px;
+  font-size: 33.5px;
+  font-family: var(--font-marcellus);
+  display: inline-block;
+  width: 609px;
+  height: 37px;
+}
+.museum-shops-parent {
+  position: absolute;
+  top: 1628px;
+  left: 0;
+  width: 1440px;
+  height: 760px;
+  overflow: hidden;
+  font-size: var(--font-size-21xl-5);
+  color: var(--color-black);
+  font-family: var(--font-kohinoor-gujarati);
+}
+.unsplashxyzeinanwwc {
+  position: absolute;
+  top: 2762px;
+  left: -262px;
+  width: 960px;
+  height: 1200px;
+}
+.pngtreesilhouette-of-brown-tr,
+.pngwingcom-13-1 {
+  position: absolute;
+  top: 170px;
+  left: -36px;
+  width: 328px;
+  height: 296.7px;
+  object-fit: cover;
+}
+.pngwingcom-13-1 {
+  top: 76px;
+  left: -108.9px;
+  width: 1807.9px;
+  height: 661px;
+}
+.pngwingcom-13-1-wrapper {
+  position: absolute;
+  top: 391px;
+  left: 4.9px;
+  background-color: #2f2f2f;
+  width: 1445px;
+  height: 736.7px;
+  overflow: hidden;
+}
+.pngwingcom-15-1,
+.pngwingcom-16-1 {
+  position: absolute;
+  top: 102px;
+  left: 649px;
+  width: 472px;
+  height: 431px;
+  object-fit: cover;
+}
+.pngwingcom-15-1 {
+  top: 218px;
+  left: 250px;
+  width: 363.9px;
+  height: 174px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 392px;
+  left: 0;
+  width: 1445px;
+  height: 730px;
+}
+.incredible-india-black-1-icon,
+.pngwingcom-17-1 {
+  position: absolute;
+  top: 164px;
+  left: 1156px;
+  width: 289px;
+  height: 289px;
+  object-fit: cover;
+}
+.incredible-india-black-1-icon {
+  top: 17px;
+  left: 495px;
+  width: 252px;
+  height: 58.7px;
+}
+.banner-footer-1-icon,
+.national-culture-fund-1-icon {
+  position: absolute;
+  top: 0;
+  left: 811px;
+  width: 242px;
+  height: 91.9px;
+  object-fit: cover;
+}
+.national-culture-fund-1-icon {
+  top: 10px;
+  left: 244px;
+  width: 187px;
+  height: 71px;
+}
+.this-is-the-container {
+  position: absolute;
+  top: 885px;
+  left: 288px;
+  font-weight: 300;
+  display: inline-block;
+  width: 878px;
+  height: 51px;
+}
+.material-symbolsfeedback-outl-icon {
+  width: 44px;
+  position: relative;
+  height: 44px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.feedback {
+  position: relative;
+}
+.material-symbolsfeedback-outl-parent {
+  position: absolute;
+  top: 973px;
+  left: 68px;
+  border-radius: 10px;
+  border: 1px solid var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  gap: 10px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+}
+.frame-child4,
+.frame-child5,
+.frame-child6,
+.frame-child7 {
+  position: absolute;
+  top: 479.5px;
+  left: 58.5px;
+  border-top: 1px solid var(--color-gold);
+  box-sizing: border-box;
+  width: 77px;
+  height: 1px;
+}
+.frame-child5,
+.frame-child6,
+.frame-child7 {
+  left: 444.5px;
+  width: 66px;
+}
+.frame-child6,
+.frame-child7 {
+  left: 843.5px;
+  width: 91px;
+}
+.frame-child7 {
+  left: 1206.5px;
+  width: 133px;
+}
+.pngtreesilhouette-of-brown-tr-parent {
+  position: absolute;
+  top: 2404px;
+  left: 0;
+  width: 1440px;
+  height: 1127.7px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base-7);
+  font-family: var(--font-inter);
+}
+.frame-child8 {
+  position: absolute;
+  top: 3461px;
+  left: 5px;
+  background-color: #0fa958;
+  width: 1440px;
+  height: 51px;
+}
+.copyright-2024 {
+  position: absolute;
+  top: 3475px;
+  left: 523px;
+  font-size: 16px;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 364px;
+  height: 24px;
+}
+.about {
+  margin: 0;
+  color: var(--color-gold);
+}
+.about-history-key-container {
+  position: absolute;
+  top: 2852px;
+  left: 58px;
+  font-weight: 600;
+  display: inline-block;
+  width: 343px;
+}
+.share1 {
+  color: var(--color-gold);
+}
+.gallery3 {
+  text-decoration: underline;
+}
+.gallery2 {
+  color: inherit;
+}
+.policies-terms-container,
+.quick-links-press-container,
+.share-photo-gallery-container {
+  position: absolute;
+  top: 2848px;
+  left: 441px;
+  font-weight: 600;
+  display: inline-block;
+  width: 343px;
+}
+.policies-terms-container,
+.quick-links-press-container {
+  left: 840px;
+}
+.quick-links-press-container {
+  top: 2854px;
+  left: 1197px;
+}
+.clip-path-group,
+.lucidefacebook-icon {
+  position: absolute;
+  height: 0.82%;
+  width: 2.15%;
+  top: 97.37%;
+  right: 16.15%;
+  bottom: 1.8%;
+  left: 81.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.lucidefacebook-icon {
+  height: 0.89%;
+  width: 2.3%;
+  right: 19.37%;
+  bottom: 1.74%;
+  left: 78.33%;
+}
+.follow-us-on {
+  position: absolute;
+  height: 0.89%;
+  width: 11.66%;
+  top: 96.07%;
+  left: 81.4%;
+  font-size: 24.8px;
+  font-weight: 300;
+  font-family: var(--font-inter);
+  display: inline-block;
+}
+.mdiinstagram-icon,
+.vector-icon1,
+.vector-icon2 {
+  position: absolute;
+  height: 0.95%;
+  width: 3.07%;
+  top: 97.37%;
+  right: 4.94%;
+  bottom: 1.68%;
+  left: 91.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.mdiinstagram-icon,
+.vector-icon2 {
+  height: 0.89%;
+  width: 2.46%;
+  right: 9.08%;
+  bottom: 1.74%;
+  left: 88.46%;
+}
+.mdiinstagram-icon {
+  height: 0.95%;
+  top: 97.31%;
+  right: 12.61%;
+  left: 84.93%;
+}
+.pngwingcom-18-1 {
+  position: absolute;
+  top: 339px;
+  left: 1342px;
+  width: 84px;
+  height: 84px;
+  object-fit: cover;
+}
+.frame-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3512px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-sora);
+}

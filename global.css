@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-sora: Sora;
+  --font-marcellus: Marcellus;
+  --font-kohinoor-gujarati: "Kohinoor Gujarati";
+  --font-bigshot-one: "Bigshot One";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-base-7: 16.7px;
+  --font-size-21xl-5: 40.5px;
+  --font-size-base-2: 16.2px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gold: #ffdd01;
+  --color-black: #000;
+  --color-cornflowerblue: #0162b1;
+
+  /* Paddings */
+  --padding-7xs-6: 5.6px;
+  --padding-8xs: 5px;
+}
